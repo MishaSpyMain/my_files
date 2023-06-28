@@ -16,4 +16,4 @@ for sentence in user_sentence_split:
 
 #for word in user_sentence_split:
     #print(f"{word_counter}. {word}")
-    #word_counter +=1
+    #word_counter +=1.
