@@ -9,7 +9,7 @@ if y != 0:
     result = int(x) / int(y)
     print("Answer is:", result)
 else:
-    print("Can't use zeros sorry ;( ")
+    print("Can't use zeros sorry :( ")
 
 
 
